@@ -24,7 +24,7 @@ Studied concepts:
 * How to use session with django framework to track each individual user.
 
 
-hello world / what ssap
+hello world      return what ssap
 
 
 
